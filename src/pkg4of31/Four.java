@@ -22,12 +22,12 @@ public class Four {
         int y= reader.nextInt();
         int t=1;
         
-        while(t<=y){
-        System.out.println(t);
-        t++;
+        while (t <= y) {
+            System.out.println(t);
+            t++;
         }
         
-        // TODO code application logic here
+       
     }
     
 }
